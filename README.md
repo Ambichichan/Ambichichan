@@ -2,7 +2,8 @@
 
 <h2>👩‍💻 Cybersecurity Projects:</h2> 
 
-  - [Network Security Lab](https://github.com/Ambichichan/ActiveDirectoryLab)
+- <b>Cyber Kill Chain Practice (Network Security)</b>
+  - [Practicing a practical example of Network Security](https://github.com/Ambichichan/ActiveDirectoryLab)
   
   - [Hello World!](https://github.com/)
   
@@ -20,7 +21,6 @@
 [linkedin]: https://www.linkedin.com/in/amber-h-4435511a9/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
