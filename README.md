@@ -2,7 +2,7 @@
 
 <h2>👩‍💻 Cybersecurity Projects:</h2> 
 
-- [Cyber Kill Chain in Linux Lab](https://github.com/Ambichichan/ActiveDirectoryLab)
+- [Cyber Kill Chain in Linux Lab](https://github.com/HowardA92/CyberKillChainLab)
   
 
   
