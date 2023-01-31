@@ -5,7 +5,7 @@
 - <b>Cyber Kill Chain Practice (Network Security)</b>
   - [Practicing a practical example of Network Security](https://github.com/Ambichichan/ActiveDirectoryLab)
   
-  - [Hello World!](https://github.com/)
+
   
   
   
