@@ -3,7 +3,7 @@
 <h2>👩‍💻 Cybersecurity Projects:</h2> 
 
 - <b>Network Security Practice</b>
-  - [Practicing Cyber Kill Chains in Linux](https://github.com/Ambichichan/ActiveDirectoryLab)
+- [Practicing Cyber Kill Chains in Linux](https://github.com/Ambichichan/ActiveDirectoryLab)
   
 
   
