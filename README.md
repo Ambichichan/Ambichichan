@@ -12,7 +12,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Digital Evidence and Discovery](https://github.com/)
+- <b>Digital Evidence and Discovery</b>
 
 <h2> 🤳 Connect with me:</h2>
 
