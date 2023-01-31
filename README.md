@@ -13,6 +13,7 @@
 <h2>📄 Certifications:</h2>
 
 - <b>Digital Evidence and Discovery</b>
+  - <b>COMPTIA Security+: In progress; projected June 2023</b>
 
 <h2> 🤳 Connect with me:</h2>
 
